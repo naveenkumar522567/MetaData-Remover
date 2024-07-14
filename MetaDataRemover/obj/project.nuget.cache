@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "47qKS0IcnuFoOcIzf7QCgjNuDgvNx+IfpaZ28ZEbC25YjzlPLlEsSguqlBGcJGeQb0b+x5l35oh1Wzef+ncGyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Naveen Kumar\\Project\\P1\\MetaDataRemover\\MetaDataRemover\\MetaDataRemover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naveen Kumar\\.nuget\\packages\\sixlabors.imagesharp\\3.1.4\\sixlabors.imagesharp.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
